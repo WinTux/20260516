@@ -18,7 +18,7 @@ A la pregunta respondemos con 'Y' o 'S' para habilitar el permiso para nuestro u
 
 python -m venv venv
 
-.\\venv\\Scripts\\Activate.ps1
+.\venv\Scripts\Activate.ps1
 
 ```
 
@@ -52,7 +52,7 @@ La copiamos y pegamos en algún navegador.
 
 ```bash
 
-Graficas\_RubenGonzaloSoriaSoria.ipynb
+Graficas_RubenGonzaloSoriaSoria.ipynb
 
 ```
 
