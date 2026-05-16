@@ -1,0 +1,46 @@
+# Entorno virtual
+venv/
+.env/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Configuración local de Jupyter
+.jupyter/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Configuración de VS Code
+.vscode/
+
+# Configuración de PyCharm
+.idea/
+
+# Archivos del sistema Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos del sistema macOS
+.DS_Store
+
+# Variables de entorno
+.env
+
+# Distribución / build
+build/
+dist/
+*.egg-info/
+
+# Cache de pytest
+.pytest_cache/
+
+# Cache de mypy
+.mypy_cache/
